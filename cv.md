@@ -40,4 +40,3 @@ Peak array index KATA from CODEWARS: Given an array of ints, return the index su
 ### Languages:
 * English - Intermediate/Upper-intermediate
 * Belarussian - native
-* Russian - native
