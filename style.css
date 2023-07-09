@@ -1,0 +1,231 @@
+.new-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  .nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    font-size: 20px;
+    height: 40px;    
+  }
+  .nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  }
+  .name {
+  text-align: center;
+  color: #0a5f94f3;
+  font-size: 45px;
+  }
+  .section-title {
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    text-decoration: underline;
+    color: #2fa5ccde;
+  }
+  .header {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+  }
+  .main {
+    width: 100%
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  
+  .body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: #09d3f2;
+    background-color: #ea0e0e;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-around;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;  
+    border-top: 2px solid #2C2A27;
+    padding-top: 10px;
+    margin: 0;
+  }
+  .year {
+    line-height: 30px;  
+  }
+  
+  
+  .section {
+    width: 50%;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 320px) {
+    .container {
+      margin: 15px auto;
+      max-width: 280px;
+      box-shadow: -5px 5px 20px 5px rgba(34, 60, 80, 0.3);
+    }
+  }
+  
+  
+  a:link {
+    color: purple; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .cv-left-side-wrapper {
+    width: 30%;
+  }
+  
+  .cv-right-side-wrapper {
+    width: 70%;
+  }   
+  .new-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  .nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    font-size: 20px;
+    height: 40px;    
+  }
+  .nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  }
+  .name {
+  text-align: center;
+  color: #0dd3e9f3;
+  font-size: 45px;
+  }
+  .section-title {
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    text-decoration: underline;
+    color: #462fccde;
+  }
+  .header {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+  }
+  .main {
+    width: 100%
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  
+  .body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: #1ac9e4;
+    background-color: #e30c0c;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-around;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;  
+    border-top: 2px solid #2C2A27;
+    padding-top: 10px;
+    margin: 0;
+  }
+  .year {
+    line-height: 30px;  
+  }
+  
+  
+  .section {
+    width: 50%;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 320px) {
+    .container {
+      margin: 15px auto;
+      max-width: 280px;
+      box-shadow: -5px 5px 20px 5px rgba(34, 60, 80, 0.3);
+    }
+  }
+  
+  
+  a:link {
+    color: rgb(11, 162, 238); 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .cv-left-side-wrapper {
+    width: 30%;
+  }
+  
+  .cv-right-side-wrapper {
+    width: 70%;
+  }   
+  
